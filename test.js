@@ -4,3 +4,5 @@ test;
 // style
 
 // perf?
+
+const a = '111';
